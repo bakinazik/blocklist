@@ -23,3 +23,4 @@ evrimagaci.org##.ads--inarticle
 evrimagaci.org##.explore-btn
 evrimagaci.org##.support-mobile
 evrimagaci.org##.content-top
+popsci.com.tr##.code-block-7.code-block
