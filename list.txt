@@ -73,3 +73,6 @@ sinirbilim.org##.author-box
 sinirbilim.org##.previous
 sinirbilim.org##.news-bar
 1000kitap.com##.r-kc8jnq.r-1777fci.r-1awozwy.css-1dbjc4n
+eksisozluk.com##.mobile-only.tracked
+eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only
+eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
