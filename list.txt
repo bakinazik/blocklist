@@ -48,3 +48,7 @@ beyinsizler.net##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-1.g1-h
 www.hypatiabilim.org##.mks-bredcrumbs-container.container
 www.hypatiabilim.org##.vce-share-bar
 www.hypatiabilim.org###sidebar > .widget_text.widget
+www.herkesebilimteknoloji.com##.ust_banner.wp_bannerize
+www.herkesebilimteknoloji.com##.gp-header-right-single
+www.herkesebilimteknoloji.com##.vc_custom_1449479463802.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > div.wpb_content_element.wpb_text_column
+www.herkesebilimteknoloji.com##.vc_custom_1449479927381.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_text_column > .wpb_wrapper > p
