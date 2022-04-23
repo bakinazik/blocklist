@@ -80,3 +80,12 @@ www.filmmodu3.com##.text-center.alert-warning.alert
 seyler.eksisozluk.com##.mobile-sozluk-logo-container
 seyler.eksisozluk.com###mobil-share-topbar
 seyler.eksisozluk.com##.pad-t-20.share-buttons
+www.donanimhaber.com##.detay > .reklam
+www.donanimhaber.com##.ust-kisim
+www.donanimhaber.com###ctl21_likeBtn_pnl
+www.donanimhaber.com###ctl21_adCstmYorumUstuAlan
+www.donanimhaber.com###ctl21_DhUygulama > .mobil-forum-tanitim
+www.donanimhaber.com##.breadcrumb
+www.donanimhaber.com###likeBtn_pnl
+www.donanimhaber.com##.google-news-subscribe-button
+www.donanimhaber.com##.buradakiler
