@@ -77,3 +77,6 @@ eksisozluk.com##.mobile-only.tracked
 eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only
 eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
 www.filmmodu3.com##.text-center.alert-warning.alert
+seyler.eksisozluk.com##.mobile-sozluk-logo-container
+seyler.eksisozluk.com###mobil-share-topbar
+seyler.eksisozluk.com##.pad-t-20.share-buttons
