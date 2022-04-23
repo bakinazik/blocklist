@@ -18,6 +18,7 @@ evrimagaci.org##.contributors-container
 evrimagaci.org##.more-contents
 evrimagaci.org##.inarticle-feed
 evrimagaci.org##.popper-ref
+evrimagaci.org###selection-text-options-container
 evrimagaci.org###content-navigator
 evrimagaci.org##.ads--inarticle
 evrimagaci.org##.explore-btn
