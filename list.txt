@@ -52,3 +52,5 @@ www.herkesebilimteknoloji.com##.ust_banner.wp_bannerize
 www.herkesebilimteknoloji.com##.gp-header-right-single
 www.herkesebilimteknoloji.com##.vc_custom_1449479463802.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > div.wpb_content_element.wpb_text_column
 www.herkesebilimteknoloji.com##.vc_custom_1449479927381.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_text_column > .wpb_wrapper > p
+www.bilimgunlugu.com##.gridlove-author
+www.bilimgunlugu.com##.gridlove-prev-next-nav
