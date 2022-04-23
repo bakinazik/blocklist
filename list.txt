@@ -66,3 +66,9 @@ gelecekbilimde.net##.entry-header > .clearfix.post-meta
 bilimvegelecek.com.tr##.td-pb-padding-side.td-post-sharing-bottom
 bilimvegelecek.com.tr##.td-pb-padding-side.td-post-sharing-top
 bilimvegelecek.com.tr##.td_block_template_1.tdi_1.td-a-rec-id-header.td-a-rec > .td-all-devices
+sinirbilim.org##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
+sinirbilim.org##.comments-area
+sinirbilim.org###secondary
+sinirbilim.org##.author-box
+sinirbilim.org##.previous
+sinirbilim.org##.news-bar
