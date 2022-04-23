@@ -44,3 +44,4 @@ www.bilimoloji.com##.td-with-like.td-post-sharing-bottom.td-post-sharing
 www.bilimoloji.com##footer
 www.bilimoloji.com##.comments
 www.bilimoloji.com##.td-container-wrap.td-footer-instagram-container.td-main-content-wrap
+beyinsizler.net##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-1.g1-hb-row-a.g1-hb-row-normal.g1-hb-row.g1-row-layout-page.g1-row > .g1-row-background
