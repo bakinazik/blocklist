@@ -26,5 +26,6 @@ evrimagaci.org##.content-top
 evrimagaci.org##iframe
 evrimagaci.org##.reaction-counter
 evrimagaci.org##.type-generic.itembox > div > div > .text > .buttons
+evrimagaci.org##.hide-print
 popsci.com.tr##.code-block-7.code-block
 arkeofili.com##.mashsb-container
