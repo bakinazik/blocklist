@@ -76,3 +76,4 @@ sinirbilim.org##.news-bar
 eksisozluk.com##.mobile-only.tracked
 eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only
 eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
+www.filmmodu3.com##.text-center.alert-warning.alert
