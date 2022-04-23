@@ -89,3 +89,4 @@ www.donanimhaber.com##.breadcrumb
 www.donanimhaber.com###likeBtn_pnl
 www.donanimhaber.com##.google-news-subscribe-button
 www.donanimhaber.com##.buradakiler
+www.donanimhaber.com##.yorum-ustu-alan
