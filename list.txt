@@ -54,3 +54,12 @@ www.herkesebilimteknoloji.com##.vc_custom_1449479463802.vc_row-fluid.wpb_row.vc_
 www.herkesebilimteknoloji.com##.vc_custom_1449479927381.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_text_column > .wpb_wrapper > p
 www.bilimgunlugu.com##.gridlove-author
 www.bilimgunlugu.com##.gridlove-prev-next-nav
+gelecekbilimde.net##.share-buttons-mobile.share-buttons
+gelecekbilimde.net##.post-components
+gelecekbilimde.net##.social-statistics-widget.widget.container-wrapper
+gelecekbilimde.net##.social-icons-widget.widget.container-wrapper
+gelecekbilimde.net##.widget_custom_html.widget.container-wrapper.widget_text
+gelecekbilimde.net##.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStickySidebar
+gelecekbilimde.net##.footer-instagram-section
+gelecekbilimde.net##.mobile-share-buttons-spacer
+gelecekbilimde.net##.entry-header > .clearfix.post-meta
