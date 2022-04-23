@@ -63,3 +63,6 @@ gelecekbilimde.net##.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStic
 gelecekbilimde.net##.footer-instagram-section
 gelecekbilimde.net##.mobile-share-buttons-spacer
 gelecekbilimde.net##.entry-header > .clearfix.post-meta
+bilimvegelecek.com.tr##.td-pb-padding-side.td-post-sharing-bottom
+bilimvegelecek.com.tr##.td-pb-padding-side.td-post-sharing-top
+bilimvegelecek.com.tr##.td_block_template_1.tdi_1.td-a-rec-id-header.td-a-rec > .td-all-devices
