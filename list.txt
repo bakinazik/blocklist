@@ -76,6 +76,9 @@ sinirbilim.org##.news-bar
 eksisozluk.com##.mobile-only.tracked
 eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only
 eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
+eksisozluk.com##.rate-options
+eksisozluk.com##.avatar
+eksisozluk.com##.dropdown.entry-share
 www.filmmodu3.com##.text-center.alert-warning.alert
 seyler.eksisozluk.com##.mobile-sozluk-logo-container
 seyler.eksisozluk.com###mobil-share-topbar
