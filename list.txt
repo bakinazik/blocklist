@@ -31,3 +31,10 @@ evrimagaci.org##.content-copyright-btn
 popsci.com.tr##.code-block-7.code-block
 arkeofili.com##.mashsb-container
 bilimfili.com##.show.fade.alert-dismissible.bf-nav-notice.alert
+www.gercekbilim.com##.share-buttons-mobile.share-buttons
+www.gercekbilim.com##.comments-area
+www.gercekbilim.com##.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStickySidebar
+www.gercekbilim.com###post-newsletter
+www.gercekbilim.com##.about-author-2.container-wrapper.about-author
+www.gercekbilim.com###breadcrumb
+www.gercekbilim.com##.entry-header > .clearfix.post-meta
