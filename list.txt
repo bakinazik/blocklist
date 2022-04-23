@@ -72,3 +72,4 @@ sinirbilim.org###secondary
 sinirbilim.org##.author-box
 sinirbilim.org##.previous
 sinirbilim.org##.news-bar
+1000kitap.com##.r-kc8jnq.r-1777fci.r-1awozwy.css-1dbjc4n
