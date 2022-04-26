@@ -99,3 +99,9 @@ www.donanimhaber.com###appIntroductionPopup
 www.gercekgundem.com##.share-top
 www.gercekgundem.com##.share-bottom
 www.gercekgundem.com##.article-footer
+popsci.com.tr##.flex-container
+popsci.com.tr##.td-post-sharing-bottom
+popsci.com.tr##.td-post-next-prev.td-block-row
+popsci.com.tr##.comments
+popsci.com.tr##.td-main-sidebar.td-pb-span4
+popsci.com.tr##.td_block_related_posts.td_block_wrap
