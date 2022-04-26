@@ -96,3 +96,6 @@ www.donanimhaber.com##.buradakiler
 www.donanimhaber.com##.yorum-ustu-alan
 www.donanimhaber.com##.cookie-kutu
 www.donanimhaber.com###appIntroductionPopup
+www.gercekgundem.com##.share-top
+www.gercekgundem.com##.share-bottom
+www.gercekgundem.com##.article-footer
