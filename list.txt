@@ -83,9 +83,6 @@ eksisozluk.com##.rate-options
 eksisozluk.com##.avatar
 eksisozluk.com##.dropdown.entry-share
 www.filmmodu3.com##.text-center.alert-warning.alert
-seyler.eksisozluk.com##.mobile-sozluk-logo-container
-seyler.eksisozluk.com###mobil-share-topbar
-seyler.eksisozluk.com##.pad-t-20.share-buttons
 www.donanimhaber.com##.detay > .reklam
 www.donanimhaber.com##.ust-kisim
 www.donanimhaber.com###ctl21_likeBtn_pnl
