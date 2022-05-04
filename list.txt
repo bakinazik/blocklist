@@ -107,3 +107,4 @@ popsci.com.tr##.td-post-next-prev.td-block-row
 popsci.com.tr##.comments
 popsci.com.tr##.td-main-sidebar.td-pb-span4
 popsci.com.tr##.td_block_related_posts.td_block_wrap
+m.youtube.com###player-control-overlay.fadein
