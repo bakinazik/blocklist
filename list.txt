@@ -85,6 +85,8 @@ eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
 eksisozluk.com##.rate-options
 eksisozluk.com##.avatar
 eksisozluk.com##.dropdown.entry-share
+eksisozluk.com##.mobile-inread-ad-not-loaded
+eksisozluk.com##.ads
 www.filmmodu3.com##.text-center.alert-warning.alert
 www.donanimhaber.com##.detay > .reklam
 www.donanimhaber.com##.ust-kisim
