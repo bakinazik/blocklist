@@ -24,7 +24,6 @@ evrimagaci.org##.ads--inarticle
 evrimagaci.org##.explore-btn
 evrimagaci.org##.support-mobile
 evrimagaci.org##.content-top
-evrimagaci.org##iframe
 evrimagaci.org##.reaction-counter
 evrimagaci.org##.type-generic.itembox > div > div > .text > .buttons
 evrimagaci.org##.hide-print
