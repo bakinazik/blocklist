@@ -88,7 +88,6 @@ eksisozluk.com##.mobile-inread-ad-not-loaded
 eksisozluk.com##.ads
 www.filmmodu3.com##.text-center.alert-warning.alert
 www.donanimhaber.com##.detay > .reklam
-www.donanimhaber.com##.ust-kisim
 www.donanimhaber.com###ctl21_likeBtn_pnl
 www.donanimhaber.com###ctl21_adCstmYorumUstuAlan
 www.donanimhaber.com###ctl21_DhUygulama > .mobil-forum-tanitim
