@@ -91,7 +91,6 @@ www.donanimhaber.com##.detay > .reklam
 www.donanimhaber.com##.open-with-app-square
 www.donanimhaber.com##.gundem-yap-btn
 www.donanimhaber.com###ctl21_adCstmYorumUstuAlan
-www.donanimhaber.com###ctl21_DhUygulama > .mobil-forum-tanitim
 www.donanimhaber.com##.breadcrumb
 www.donanimhaber.com###likeBtn_pnl
 www.donanimhaber.com##.detay > .google-news-subscribe-button
