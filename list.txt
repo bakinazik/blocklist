@@ -102,6 +102,7 @@ www.donanimhaber.com###appIntroductionPopup
 www.donanimhaber.com##.lnk-bkz
 www.donanimhaber.com##.paylas
 www.donanimhaber.com##.ilgili-haberler
+www.donanimhaber.com##.tek.ara-reklam
 www.gercekgundem.com##.share-top
 www.gercekgundem.com##.share-bottom
 www.gercekgundem.com##.article-footer
