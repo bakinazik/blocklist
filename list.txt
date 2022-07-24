@@ -97,6 +97,7 @@ www.donanimhaber.com###likeBtn_pnl
 www.donanimhaber.com##.detay > .google-news-subscribe-button
 www.donanimhaber.com##.buradakiler
 www.donanimhaber.com##.yorum-ustu-alan
+www.donanimhaber.com##.mobil-forum-tanitim
 www.donanimhaber.com##.cookie-kutu
 www.donanimhaber.com###appIntroductionPopup
 www.donanimhaber.com##.lnk-bkz
