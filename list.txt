@@ -87,6 +87,8 @@ eksisozluk.com##.dropdown.entry-share
 eksisozluk.com##.mobile-inread-ad-not-loaded
 eksisozluk.com##.ads
 www.filmmodu3.com##.text-center.alert-warning.alert
+www.donanimhaber.com##.detay-yatay-sorgu
+www.donanimhaber.com##.medya-dev-kapsam
 www.donanimhaber.com##.detay > .reklam
 www.donanimhaber.com##.open-with-app-square
 www.donanimhaber.com##.gundem-yap-btn
