@@ -117,3 +117,7 @@ popsci.com.tr##.td_block_related_posts.td_block_wrap
 teknoskop.net##.single-thumb
 teknoskop.net##.single-tools
 m.youtube.com##ytm-promoted-video-renderer
+frpnet.net##.share-buttons-mobile.share-buttons
+frpnet.net##.hide-on-desktop
+frpnet.net##.post-tags-classic
+frpnet.net###bmc-wbtn
