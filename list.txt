@@ -33,6 +33,7 @@ evrimagaci.org##.type-ads
 evrimagaci.org##ads--various
 evrimagaci.org##.ads--tower_right
 evrimagaci.org##.ads--tower_left
+evrimagaci.org##.corresponding-authors
 popsci.com.tr##.code-block-7.code-block
 arkeofili.com##.mashsb-container
 bilimfili.com##.show.fade.alert-dismissible.bf-nav-notice.alert
