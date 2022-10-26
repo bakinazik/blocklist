@@ -123,3 +123,4 @@ frpnet.net##.share-buttons-mobile.share-buttons
 frpnet.net##.hide-on-desktop
 frpnet.net##.post-tags-classic
 frpnet.net###bmc-wbtn
+vesaire.org##.pk-mobile-share-overlay
