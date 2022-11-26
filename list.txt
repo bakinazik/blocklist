@@ -38,48 +38,6 @@ evrimagaci.org##.sharp-blur-svg
 popsci.com.tr##.code-block-7.code-block
 arkeofili.com##.mashsb-container
 bilimfili.com##.show.fade.alert-dismissible.bf-nav-notice.alert
-www.gercekbilim.com##.share-buttons-mobile.share-buttons
-www.gercekbilim.com##.comments-area
-www.gercekbilim.com##.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStickySidebar
-www.gercekbilim.com###post-newsletter
-www.gercekbilim.com##.about-author-2.container-wrapper.about-author
-www.gercekbilim.com###breadcrumb
-www.gercekbilim.com##.entry-header > .clearfix.post-meta
-www.bilimoloji.com##.td-post-sharing-top.td-post-sharing
-www.bilimoloji.com##.entry-crumbs
-www.bilimoloji.com##.td-with-like.td-post-sharing-bottom.td-post-sharing
-www.bilimoloji.com##footer
-www.bilimoloji.com##.comments
-www.bilimoloji.com##.td-container-wrap.td-footer-instagram-container.td-main-content-wrap
-beyinsizler.net##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-1.g1-hb-row-a.g1-hb-row-normal.g1-hb-row.g1-row-layout-page.g1-row > .g1-row-background
-www.hypatiabilim.org##.mks-bredcrumbs-container.container
-www.hypatiabilim.org##.vce-share-bar
-www.hypatiabilim.org###sidebar > .widget_text.widget
-www.herkesebilimteknoloji.com##.ust_banner.wp_bannerize
-www.herkesebilimteknoloji.com##.gp-header-right-single
-www.herkesebilimteknoloji.com##.vc_custom_1449479463802.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > div.wpb_content_element.wpb_text_column
-www.herkesebilimteknoloji.com##.vc_custom_1449479927381.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_text_column > .wpb_wrapper > p
-www.bilimgunlugu.com##.gridlove-author
-www.bilimgunlugu.com##.gridlove-prev-next-nav
-gelecekbilimde.net##.share-buttons-mobile.share-buttons
-gelecekbilimde.net##.post-components
-gelecekbilimde.net##.social-statistics-widget.widget.container-wrapper
-gelecekbilimde.net##.social-icons-widget.widget.container-wrapper
-gelecekbilimde.net##.widget_custom_html.widget.container-wrapper.widget_text
-gelecekbilimde.net##.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStickySidebar
-gelecekbilimde.net##.footer-instagram-section
-gelecekbilimde.net##.mobile-share-buttons-spacer
-gelecekbilimde.net##.entry-header > .clearfix.post-meta
-bilimvegelecek.com.tr##.td-pb-padding-side.td-post-sharing-bottom
-bilimvegelecek.com.tr##.td-pb-padding-side.td-post-sharing-top
-bilimvegelecek.com.tr##.td_block_template_1.tdi_1.td-a-rec-id-header.td-a-rec > .td-all-devices
-sinirbilim.org##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
-sinirbilim.org##.comments-area
-sinirbilim.org###secondary
-sinirbilim.org##.author-box
-sinirbilim.org##.previous
-sinirbilim.org##.news-bar
-1000kitap.com##.r-kc8jnq.r-1777fci.r-1awozwy.css-1dbjc4n
 eksisozluk.com##.mobile-only.tracked
 eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only
 eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
@@ -89,7 +47,6 @@ eksisozluk.com##.dropdown.entry-share
 eksisozluk.com##.mobile-inread-ad-not-loaded
 eksisozluk.com##.ads
 eksisozluk.com###search-box-ad
-www.filmmodu3.com##.text-center.alert-warning.alert
 www.donanimhaber.com##.detay-yatay-sorgu
 www.donanimhaber.com##.medya-dev-kapsam
 www.donanimhaber.com##.detay > .reklam
@@ -111,17 +68,3 @@ www.donanimhaber.com##.tek.ara-reklam
 www.gercekgundem.com##.share-top
 www.gercekgundem.com##.share-bottom
 www.gercekgundem.com##.article-footer
-popsci.com.tr##.flex-container
-popsci.com.tr##.td-post-sharing-bottom
-popsci.com.tr##.td-post-next-prev.td-block-row
-popsci.com.tr##.comments
-popsci.com.tr##.td-main-sidebar.td-pb-span4
-popsci.com.tr##.td_block_related_posts.td_block_wrap
-teknoskop.net##.single-thumb
-teknoskop.net##.single-tools
-m.youtube.com##ytm-promoted-video-renderer
-frpnet.net##.share-buttons-mobile.share-buttons
-frpnet.net##.hide-on-desktop
-frpnet.net##.post-tags-classic
-frpnet.net###bmc-wbtn
-vesaire.org##.pk-mobile-share-overlay
