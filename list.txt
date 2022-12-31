@@ -1,3 +1,5 @@
+# Title: Bakilist
+# Author: Baki Nazik
 evrimagaci.org##.call-for-support
 evrimagaci.org##.support-btn-con.primary.main-btn
 evrimagaci.org###user-call-info-card
