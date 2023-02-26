@@ -72,5 +72,10 @@ www.donanimhaber.com##.paylas
 www.donanimhaber.com##.ilgili-haberler
 www.donanimhaber.com##.tek.ara-reklam
 
-! Radio Service
-###temp-messaging-region
+! Radio Services
+www.rockradio.com###temp-messaging-region
+www.classicalradio.com###temp-messaging-region
+www.jazzradio.com###temp-messaging-region
+www.zenradio.com###temp-messaging-region
+www.radiotune.com###temp-messaging-region
+www.di.fm###temp-messaging-region
