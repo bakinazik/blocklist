@@ -79,3 +79,7 @@ www.jazzradio.com###temp-messaging-region
 www.zenradio.com###temp-messaging-region
 www.radiotune.com###temp-messaging-region
 www.di.fm###temp-messaging-region
+
+! Instagram
+www.instagram.com##._afxv
+www.instagram.com##._afxw
