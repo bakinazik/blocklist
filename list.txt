@@ -42,15 +42,15 @@ evrimagaci.org##.content-toolbox
 evrimagaci.org###user-action-btn
 
 ! Ekşi Sözlük
-eksisozluk2023.com##.mobile-only.tracked
-eksisozluk2023.com##.pena-logo-mobile.no-hover.mobile-only
-eksisozluk2023.com##.eksiseyler-logo-mobile.no-hover.mobile-only
-eksisozluk2023.com##.rate-options
-eksisozluk2023.com##.avatar
-eksisozluk2023.com##.dropdown.entry-share
-eksisozluk2023.com##.mobile-inread-ad-not-loaded
-eksisozluk2023.com##.ads
-eksisozluk2023.com###search-box-ad
+eksisozluk42.com##.mobile-only.tracked
+eksisozluk42.com##.pena-logo-mobile.no-hover.mobile-only
+eksisozluk42.com##.eksiseyler-logo-mobile.no-hover.mobile-only
+eksisozluk42.com##.rate-options
+eksisozluk42.com##.avatar
+eksisozluk42.com##.dropdown.entry-share
+eksisozluk42.com##.mobile-inread-ad-not-loaded
+eksisozluk42.com##.ads
+eksisozluk42.com###search-box-ad
 
 ! Donanım Haber
 www.donanimhaber.com##.detay-yatay-sorgu
