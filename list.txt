@@ -85,6 +85,8 @@ www.instagram.com##._afxv
 www.instagram.com##._afxw
 www.instagram.com##._aaum
 www.instagram.com##._aac4
+www.instagram.com##div > div > article header > div > div > span> div > span:upward(article > div) 
+www.instagram.com##div > div > article > div > div > div > div > span:upward(article > div)
 
 ! Twitter
 twitter.com##.r-1mdbhws
