@@ -51,6 +51,7 @@ eksisozluk1923.com##.dropdown.entry-share
 eksisozluk1923.com##.mobile-inread-ad-not-loaded
 eksisozluk1923.com##.ads
 eksisozluk1923.com###search-box-ad
+eksisozluk1923.com###subscriber-badge-entry
 
 ! Donanım Haber
 www.donanimhaber.com##.detay-yatay-sorgu
