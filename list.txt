@@ -16,7 +16,6 @@ evrimagaci.org###bottom-nav-container
 evrimagaci.org##.section-title
 evrimagaci.org##.info-card
 evrimagaci.org##.content-references
-evrimagaci.org##.figure-bottom
 evrimagaci.org##.contributors-container
 evrimagaci.org##.more-contents
 evrimagaci.org##.inarticle-feed
