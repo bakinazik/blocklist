@@ -1,6 +1,7 @@
 ! Title: Bakilist
 
 ! Evrim Ağacı
+evrimagaci.org##.ads--masthead
 evrimagaci.org##.call-for-support
 evrimagaci.org##.support-btn-con.primary.main-btn
 evrimagaci.org###user-call-info-card
