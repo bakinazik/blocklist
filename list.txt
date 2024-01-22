@@ -41,16 +41,16 @@ evrimagaci.org##.content-toolbox
 evrimagaci.org###user-action-btn
 
 ! Ekşi Sözlük
-eksisozluk111.com##.mobile-only.tracked
-eksisozluk111.com##.pena-logo-mobile.no-hover.mobile-only
-eksisozluk111.com##.eksiseyler-logo-mobile.no-hover.mobile-only
-eksisozluk111.com##.rate-options
-eksisozluk111.com##.avatar
-eksisozluk111.com##.dropdown.entry-share
-eksisozluk111.com##.mobile-inread-ad-not-loaded
-eksisozluk111.com##.ads
-eksisozluk111.com###search-box-ad
-eksisozluk111.com###subscriber-badge-entry
+eksisozluk.com##.mobile-only.tracked
+eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only
+eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only
+eksisozluk.com##.rate-options
+eksisozluk.com##.avatar
+eksisozluk.com##.dropdown.entry-share
+eksisozluk.com##.mobile-inread-ad-not-loaded
+eksisozluk.com##.ads
+eksisozluk.com###search-box-ad
+eksisozluk.com###subscriber-badge-entry
 
 ! Donanım Haber
 www.donanimhaber.com##.detay-yatay-sorgu
