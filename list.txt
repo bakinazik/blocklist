@@ -90,8 +90,3 @@ www.instagram.com##div > div > article > div > div > div > div > span:upward(art
 
 ! Twitter
 twitter.com##.r-1mdbhws
-
-! Dizipal
-! Sorumluluk Reddi: İnsanların isteği doğrultusunda eklenmektedir. Kaçak yayın izlemek suçtur.
-dizipal734.com#$#.pre-player, .banner-text, .g-title, .pre-player *{display: none !important}
-dizipal734.com#$#.video-banner{display: block !important;}
