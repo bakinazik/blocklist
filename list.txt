@@ -84,6 +84,7 @@ www.donanimhaber.com##.news-make-agenda
 www.donanimhaber.com##.related-content
 www.donanimhaber.com##.content
 www.donanimhaber.com##.topics-scroll
+www.donanimhaber.com##.tam-kucuk-sorgu
 
 ! Radio Services
 www.rockradio.com###temp-messaging-region
