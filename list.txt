@@ -71,6 +71,19 @@ www.donanimhaber.com##.lnk-bkz
 www.donanimhaber.com##.paylas
 www.donanimhaber.com##.ilgili-haberler
 www.donanimhaber.com##.tek.ara-reklam
+www.donanimhaber.com##.intro-top-ad
+www.donanimhaber.com##.owl-carousel
+www.donanimhaber.com##.sticky-make-agenda
+www.donanimhaber.com##.text-between-ad
+www.donanimhaber.com##.see-also
+www.donanimhaber.com##.overflow
+www.donanimhaber.com##.user-visitors-box
+www.donanimhaber.com##.best-reviewers-content
+www.donanimhaber.com##.share-news
+www.donanimhaber.com##.news-make-agenda
+www.donanimhaber.com##.related-content
+www.donanimhaber.com##.content
+www.donanimhaber.com##.topics-scroll
 
 ! Radio Services
 www.rockradio.com###temp-messaging-region
