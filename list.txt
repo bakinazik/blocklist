@@ -86,13 +86,16 @@ www.donanimhaber.com##.content
 www.donanimhaber.com##.topics-scroll
 www.donanimhaber.com##.tam-kucuk-sorgu
 
-! Radio Services
-www.rockradio.com###temp-messaging-region
-www.classicalradio.com###temp-messaging-region
-www.jazzradio.com###temp-messaging-region
-www.zenradio.com###temp-messaging-region
-www.radiotune.com###temp-messaging-region
-www.di.fm###temp-messaging-region
+! 28 Ağu 2025 https://www.log.com.tr
+www.log.com.tr##.clearfix.sinl
+www.log.com.tr##.p1
+www.log.com.tr##.log-player
+www.log.com.tr##.borderBottom.borderTop.boxHotTopics.first.grid12
+www.log.com.tr##footer
+www.log.com.tr##.container > .grid4
+www.log.com.tr##.alignRight
+www.log.com.tr##.alignLeft
+www.log.com.tr##.boxRelatedNews
 
 ! Instagram
 www.instagram.com##._afxv
@@ -102,5 +105,3 @@ www.instagram.com##._aac4
 www.instagram.com##div > div > article header > div > div > span> div > span:upward(article > div) 
 www.instagram.com##div > div > article > div > div > div > div > span:upward(article > div)
 
-! Twitter
-twitter.com##.r-1mdbhws
