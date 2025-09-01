@@ -24,6 +24,10 @@ evrimagaci.org###selection-text-options-container
 evrimagaci.org###content-navigator
 evrimagaci.org##.ads--inarticle
 evrimagaci.org##.explore-btn
+evrimagaci.org##.ads-container
+evrimagaci.org##.ads--masthead
+evrimagaci.org##.summary-container
+evrimagaci.org##.ea-mobile-bottom-bar-container
 evrimagaci.org##.support-mobile
 evrimagaci.org##.content-top
 evrimagaci.org##.reaction-counter
@@ -106,5 +110,6 @@ www.instagram.com##._aaum
 www.instagram.com##._aac4
 www.instagram.com##div > div > article header > div > div > span> div > span:upward(article > div) 
 www.instagram.com##div > div > article > div > div > div > div > span:upward(article > div)
+
 
 
