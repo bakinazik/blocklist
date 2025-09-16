@@ -43,6 +43,7 @@ evrimagaci.org##.corresponding-authors
 evrimagaci.org##.sharp-blur-svg
 evrimagaci.org##.content-toolbox
 evrimagaci.org###user-action-btn
+evrimagaci.org##.content-ea-academy-card
 
 ! Ekşi Sözlük
 eksisozluk.com##.mobile-only.tracked
@@ -110,6 +111,7 @@ www.instagram.com##._aaum
 www.instagram.com##._aac4
 www.instagram.com##div > div > article header > div > div > span> div > span:upward(article > div) 
 www.instagram.com##div > div > article > div > div > div > div > span:upward(article > div)
+
 
 
 
